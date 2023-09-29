@@ -1,11 +1,13 @@
 <p align="center">
-# LeetCode-Solutions
+LeetCode Solutions
 </p>
 
-     **`LeetCode is a code triva site allowing developers to hone their skills and the problem solving skills`**
+🤓 **`LeetCode is a code triva site allowing developers to hone their skills and the problem solving skills`**  
 
-<p>
-<div align="center">
-<img src="https://imgs.search.brave.com/aTUTh9KZGYY7suMoBAXzrwj3hw4_n7pFftqt46Py-XQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvMCpDZGRtX194/N29Yb1kwTjlwLnBu/Zw" style="height: 15%; width: 60%; max-width: 100%" />
-</div>
-</p>
+😁 **`My goal as a aspiring software developer is to aim to do 1 or more LeetCode problems a day to prepare myself for interviews`**  
+
+😠 **`I do not like LeetCode, you probably don't either, lucky for you this repo will continue to grow until I secure a job, enjoy free answers until then`**
+
+
+
+
