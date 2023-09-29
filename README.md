@@ -1,13 +1,12 @@
 <p align="center">
 LeetCode Solutions
-</p>
+</p>  
+  
+🤓 **`What is LeetCode?`**    
+  - LeetCode is a site that allows developers to practice commonly asked interview questions that test their coding abilitys.  
 
-🤓 **`LeetCode is a code triva site allowing developers to hone their skills and the problem solving skills`**  
+😁 **`Why upload your solutions here? why not on LeetCode?`**  
+- When doing a LeetCode problem you can view the soltuions to the problem you are up against, this repo serves as a large scale hub of solutions for anyone to study or source code from.    
 
-😁 **`My goal as a aspiring software developer is to aim to do 1 or more LeetCode problems a day to prepare myself for interviews`**  
-
-😠 **`I do not like LeetCode, you probably don't either, lucky for you this repo will continue to grow until I secure a job, enjoy free answers until then`**
-
-
-
-
+😠 **`Do I need to credit you?`**  
+- No need! I only upload here for daily github activity, I do 1 or more LeetCodes a day, I already get enough out of it this way.  
