@@ -1,4 +1,4 @@
-<h1 align="center">LeetCode Solutions</h1>
+<h1 align="center">LeetCode Solutions!</h1>
   
 🤓 **`What is LeetCode?`**    
   - LeetCode is a site that allows developers to practice commonly asked interview questions that test their coding abilitys.  
