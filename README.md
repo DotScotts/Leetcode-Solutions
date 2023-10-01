@@ -8,3 +8,6 @@
 
 😠 **`Do I need to credit you?`**  
 - No need! I only upload here for daily github activity, I do 1 or more LeetCodes a day, I already get enough out of it this way.  
+
+😥 **`Struggling with LeetCode?`**  
+- https://medium.com/nerd-for-tech/tips-to-solve-leetcode-problems-e1d24c480e4a
